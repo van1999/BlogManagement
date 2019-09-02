@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spigot on VAN的博客</title>
-    <link>https://van1999.github.io/tags/spigot/</link>
-    <description>Recent content in Spigot on VAN的博客</description>
+    <title>Posts on VAN的博客</title>
+    <link>https://van1999.github.io/post/</link>
+    <description>Recent content in Posts on VAN的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 09 Nov 2018 01:08:15 +0800</lastBuildDate>
     
-	<atom:link href="https://van1999.github.io/tags/spigot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://van1999.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,15 @@
       
       <guid>https://van1999.github.io/post/minecraft/buildspigot/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PS作业-2</title>
+      <link>https://van1999.github.io/post/homework/ps-2/</link>
+      <pubDate>Wed, 07 Nov 2018 17:23:18 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/post/homework/ps-2/</guid>
+      <description>&lt;p&gt;记录一下做不完就要重修的第二次PS作业。&lt;/p&gt;</description>
     </item>
     
   </channel>

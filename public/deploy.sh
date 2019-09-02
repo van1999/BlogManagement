@@ -1,7 +1,7 @@
    echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
    # Build the project.
-   hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+   # if using a theme, replace with `hugo -t <YOURTHEME>`
 
    # Go To Public folder
 
@@ -16,10 +16,7 @@
    git commit -m "$msg"
 
    # Push source and build repos.
-   git push origin master
+   git push origin master --force
 
    # Come Back up to the Project Root
-   cd public
-   sh deploy.sh autoUpdate
-   cd ..
 
