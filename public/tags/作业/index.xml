@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>作业 on VAN的博客</title>
+    <link>https://van1999.github.io/tags/%E4%BD%9C%E4%B8%9A/</link>
+    <description>Recent content in 作业 on VAN的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Nov 2018 17:23:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://van1999.github.io/tags/%E4%BD%9C%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PS作业-2</title>
+      <link>https://van1999.github.io/homework/ps-2/</link>
+      <pubDate>Wed, 07 Nov 2018 17:23:18 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/homework/ps-2/</guid>
+      <description>&lt;p&gt;记录一下做不完就要重修的第二次PS作业。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

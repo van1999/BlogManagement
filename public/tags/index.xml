@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on VAN的博客</title>
+    <link>https://van1999.github.io/tags/</link>
+    <description>Recent content in Tags on VAN的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 09 Nov 2018 01:08:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://van1999.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CentOS</title>
+      <link>https://van1999.github.io/tags/centos/</link>
+      <pubDate>Fri, 09 Nov 2018 01:08:15 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/tags/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minecraft</title>
+      <link>https://van1999.github.io/tags/minecraft/</link>
+      <pubDate>Fri, 09 Nov 2018 01:08:15 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/tags/minecraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spigot</title>
+      <link>https://van1999.github.io/tags/spigot/</link>
+      <pubDate>Fri, 09 Nov 2018 01:08:15 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/tags/spigot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photoshop</title>
+      <link>https://van1999.github.io/tags/photoshop/</link>
+      <pubDate>Wed, 07 Nov 2018 17:23:18 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>作业</title>
+      <link>https://van1999.github.io/tags/%E4%BD%9C%E4%B8%9A/</link>
+      <pubDate>Wed, 07 Nov 2018 17:23:18 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/tags/%E4%BD%9C%E4%B8%9A/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

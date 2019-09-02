@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAN的博客</title>
+    <link>https://van1999.github.io/</link>
+    <description>Recent content on VAN的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 09 Nov 2018 01:08:15 +0800</lastBuildDate>
+    
+        <atom:link href="https://van1999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://van1999.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>在CentOS上搭建一个基于Spigot的Minecraft服务器</title>
+      <link>https://van1999.github.io/minecraft/buildspigot/</link>
+      <pubDate>Fri, 09 Nov 2018 01:08:15 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/minecraft/buildspigot/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PS作业-2</title>
+      <link>https://van1999.github.io/homework/ps-2/</link>
+      <pubDate>Wed, 07 Nov 2018 17:23:18 +0800</pubDate>
+      
+      <guid>https://van1999.github.io/homework/ps-2/</guid>
+      
+        <description>&lt;p&gt;记录一下做不完就要重修的第二次PS作业。&lt;/p&gt;
+
+&lt;h2 id=&#34;banner&#34;&gt;Banner&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-1.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-1&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-2.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-2&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-3.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-3.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-3&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-4.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-4.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-4&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-5.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-5.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-5&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-6.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-6.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-6&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-7.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-7.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-7&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-8.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://van1999.github.io/image/%e6%9c%aa%e6%a0%87%e9%a2%98-8.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Banner-8&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
