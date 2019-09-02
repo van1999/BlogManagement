@@ -18,19 +18,19 @@ categories:
 
 ## Banner
 
-{{< figure src="/PS作业-2/image/未标题-1.jpg" title="Banner-1" >}}
+{{< figure src="/image/PS作业-2/未标题-1.jpg" title="Banner-1" >}}
 
-{{< figure src="/PS作业-2/image/未标题-2.jpg" title="Banner-2" >}}
+{{< figure src="/image/PS作业-2/未标题-2.jpg" title="Banner-2" >}}
 
-{{< figure src="/PS作业-2/image/未标题-3.jpg" title="Banner-3" >}}
+{{< figure src="/image/PS作业-2/未标题-3.jpg" title="Banner-3" >}}
 
-{{< figure src="/PS作业-2/image/未标题-4.jpg" title="Banner-4" >}}
+{{< figure src="/image/PS作业-2/未标题-4.jpg" title="Banner-4" >}}
 
-{{< figure src="/PS作业-2/image/未标题-5.jpg" title="Banner-5" >}}
+{{< figure src="/image/PS作业-2/未标题-5.jpg" title="Banner-5" >}}
 
-{{< figure src="/PS作业-2/image/未标题-6.jpg" title="Banner-6" >}}
+{{< figure src="/image/PS作业-2/未标题-6.jpg" title="Banner-6" >}}
 
-{{< figure src="/PS作业-2/image/未标题-7.jpg" title="Banner-7" >}}
+{{< figure src="/image/PS作业-2/未标题-7.jpg" title="Banner-7" >}}
 
-{{< figure src="/PS作业-2/image/未标题-8.jpg" title="Banner-8" >}}
+{{< figure src="/image/PS作业-2/未标题-8.jpg" title="Banner-8" >}}
 
